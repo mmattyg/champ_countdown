@@ -103,7 +103,7 @@ body {
 }
 .countdown__digit {
   width: 100%;
-  color: #4bfea0;
+  color: #ffffff;
   text-align: center;
   mix-blend-mode: difference;
   pointer-events: none;
